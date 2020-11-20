@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\ToolBox\ToolBox\bin\Debug\ToolBox.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\ToolBox\ToolBox\bin\Debug\ToolBox.exe
+C:\ElevenFiftyProjects\DotNetProjects\ToolBox\ToolBox\bin\Debug\ToolBox.pdb
+C:\ElevenFiftyProjects\DotNetProjects\ToolBox\ToolBox\obj\Debug\ToolBox.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\ToolBox\ToolBox\obj\Debug\ToolBox.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\ToolBox\ToolBox\obj\Debug\ToolBox.exe
+C:\ElevenFiftyProjects\DotNetProjects\ToolBox\ToolBox\obj\Debug\ToolBox.pdb
